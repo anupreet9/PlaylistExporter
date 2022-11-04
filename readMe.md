@@ -25,7 +25,7 @@ The spotify playlist gets created with all the songs.
 
 Java
 
-Spotify APIs
+Spotify Web API Java
 
 Youtube APIs
 
