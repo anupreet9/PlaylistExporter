@@ -4,7 +4,7 @@ Playlist Exporter
 
 ## Description
 
-This project lets a user convert their youtube playlist to spotify. A user can convert thier playlist easily without the hassle of adding the songs to the spotify playlist manually. Just running a Java script will do the job for you!
+This project lets a user convert their youtube playlist to Spotify. Users can convert their playlists easily without manually adding the songs to the Spotify playlist. Just running a Java script will do the job for you!
 
 # How to Use the Script
 
